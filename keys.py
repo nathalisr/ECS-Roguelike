@@ -1,4 +1,3 @@
-import tdl
 import components
 import settings
 from bearlibterminal import terminal
